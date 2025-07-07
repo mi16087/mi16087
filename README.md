@@ -27,22 +27,4 @@ Currently, I'm learning:
 
 ---
 
-## 🤝 Collaboration
-
-While I haven't contributed code to open-source projects yet, I enjoy:
-- Opening issues
-- Commenting on and helping resolve other developers’ problems  
-Learning and growing through community involvement is important to me.
-
----
-
-## 🎯 Fun Facts
-
-- I love solving **math and logic problems**
-- Enjoy tackling **informatics challenges**, **puzzles**, and **riddles**
-- Music is one of my favorite ways to relax and recharge 🎶
-
----
-
 Thanks for visiting my profile! 🚀  
-Feel free to check out my repositories and follow along as I grow as a developer.
